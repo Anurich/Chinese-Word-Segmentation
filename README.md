@@ -35,4 +35,6 @@ with 4 output. <br/> Loss used is  <b>‘categorical_crossentropy’</b>  and me
   <img src="resources/Validation loss vs Epochs.jpg" width="400" />
  <img src="resources/Vlidation Accuracy vs Epochs.jpg" width="400" />
 </p>
+<h2> Note. </h2>
+If anyone find any problem in understanding code as well as in running it, feel free to send me mail and ask all your queries and doubt.
 
