@@ -19,7 +19,13 @@ And concatenating those two layers output and feeding it to both backward and fo
 the output of those is than concatenated and feed through time distributed softmax classifier
 with 4 output. <br/> Loss used is  <b>‘categorical_crossentropy’</b>  and metrics used is  <b>‘accuracy’</b>.
 
-
+<h2> Hyperparameters. </h2>
+<ol>
+ <li>Padding Size = 50</li> 
+  <li>Unigram Embedding Size = 64</li>
+  <li>Bigram Embedding Size = 32</li>
+  <li>Dropout = 0.1 ,Recurrent Dropout = 0.3, Batch Size = 64 </li>
+</ol>
 <h2> Installation </h2>
 <ul>
  <li>Python == 3.6.6</li>
