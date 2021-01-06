@@ -1,1 +1,1 @@
-# Chinese-Word-Segmentation
+# Chinese Word Segmentation
