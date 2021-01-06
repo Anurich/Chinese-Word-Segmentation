@@ -30,8 +30,9 @@ with 4 output. <br/> Loss used is  <b>‘categorical_crossentropy’</b>  and me
  I didn't upload the dataset here as well didn't upload pretrained embedding, you can download it from  here: http://vectors.nlpl.eu/repository/.
  <h2> Result </h2>
 <p float="left">
-  <img src="resources/Train Accuracy vs Epochs.jpg" width="100" />
-  <img src="resources/Train loss vs Epochs.jpg" width="100" /> 
-  <img src="resources/Validation loss vs Epochs.jpg" width="100" />
+  <img src="resources/Train Accuracy vs Epochs.jpg" width="300" />
+  <img src="resources/Train loss vs Epochs.jpg" width="300" /> 
+  <img src="resources/Validation loss vs Epochs.jpg" width="300" />
+ <img src="resources/Vlidation Accuracy vs Epochs.jpg" width="300" />
 </p>
 
